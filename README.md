@@ -16,10 +16,13 @@ Tanh: Balanced and consistent, providing the most reliable results in this proje
 ![WhatsApp Image 2024-11-26 at 11 42 13 PM](https://github.com/user-attachments/assets/6d5751d0-e061-44a3-a875-6bd66912d08e)
 
 
-Results
+# Results:
 Best Activation Function: tanh consistently provided better and more stable results compared to ReLU and Softplus. The enhanced images retained natural colors and balance.
+
 Loss Visualization: The graph shows a steady decrease in training and validation loss, indicating good performance.
+
 This project showcases the ability of deep learning to enhance images, with activation functions playing a key role in the quality of results.
+
 (Model 1 : ReLU, Model 2 : Tanh, Model 3 : Softplus)
 
 # Test 1:
