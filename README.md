@@ -26,10 +26,11 @@ This project showcases the ability of deep learning to enhance images, with acti
 (Model 1 : ReLU, Model 2 : Tanh, Model 3 : Softplus)
 
 # Test 1:
-![image](https://github.com/user-attachments/assets/dea4cd19-f853-4bdb-b2d9-3d7555ffaa12),![image](https://github.com/user-attachments/assets/2f33627c-cd85-4cfa-929b-5a0bc6180cd2),![image](https://github.com/user-attachments/assets/45c026de-8739-44cb-982f-34a87ab8d659),![image](https://github.com/user-attachments/assets/461c7dc0-15aa-42f6-9b12-b2844af30bb7)
+![image](https://github.com/user-attachments/assets/a24db8be-5ec9-48a2-91c5-fba112722d0b),![image](https://github.com/user-attachments/assets/d0e8a60b-b21f-48e1-a2c5-6957164d7c73),![image](https://github.com/user-attachments/assets/d8affd9d-42e9-4b20-bf1b-2d51a7d31b25),![image](https://github.com/user-attachments/assets/7964f7b4-1986-4348-8c10-c34768766a0f)
+
 
 # Test 2:
-![image](https://github.com/user-attachments/assets/a24db8be-5ec9-48a2-91c5-fba112722d0b),![image](https://github.com/user-attachments/assets/d0e8a60b-b21f-48e1-a2c5-6957164d7c73),![image](https://github.com/user-attachments/assets/d8affd9d-42e9-4b20-bf1b-2d51a7d31b25),![image](https://github.com/user-attachments/assets/7964f7b4-1986-4348-8c10-c34768766a0f)
+![image](https://github.com/user-attachments/assets/dea4cd19-f853-4bdb-b2d9-3d7555ffaa12),![image](https://github.com/user-attachments/assets/2f33627c-cd85-4cfa-929b-5a0bc6180cd2),![image](https://github.com/user-attachments/assets/45c026de-8739-44cb-982f-34a87ab8d659),![image](https://github.com/user-attachments/assets/461c7dc0-15aa-42f6-9b12-b2844af30bb7)
 
 # Test 3:
 ![image](https://github.com/user-attachments/assets/cb17655f-9def-4dfe-8fd2-5b4deb7c89c4),![image](https://github.com/user-attachments/assets/946255bb-f9a7-4a80-a503-462456867a4a),![image](https://github.com/user-attachments/assets/90bd9663-95e9-440d-a774-86596db4d771),![image](https://github.com/user-attachments/assets/1b462690-94ee-4bab-8127-556bb7bbe9be)
