@@ -11,17 +11,9 @@ Tanh: Balanced and consistent, providing the most reliable results in this proje
 
 Training & Validation Graph: Included for visualizing the range of training and validation loss over epochs.
 Model Architecture
-Layer (Type)	Output Shape	Param #
-Conv2D (64 filters)	(None, 128, 128, 64)	1,792
-UpSampling2D	(None, 256, 256, 64)	0
-Conv2D (128 filters)	(None, 256, 256, 128)	73,856
-MaxPooling2D	(None, 128, 128, 128)	0
-Conv2D (64 filters)	(None, 128, 128, 64)	73,792
-UpSampling2D	(None, 256, 256, 64)	0
-Conv2D (128 filters)	(None, 256, 256, 128)	73,856
-MaxPooling2D	(None, 128, 128, 128)	0
-Conv2D (64 filters)	(None, 128, 128, 64)	73,792
-Conv2D (Output, 3 filters)	(None, 128, 128, 3)	1,731
+![WhatsApp Image 2024-11-26 at 11 42 13 PM](https://github.com/user-attachments/assets/6d5751d0-e061-44a3-a875-6bd66912d08e)
+
+
 Results
 Best Activation Function: tanh consistently provided better and more stable results compared to ReLU and Softplus. The enhanced images retained natural colors and balance.
 Loss Visualization: The graph shows a steady decrease in training and validation loss, indicating good performance.
