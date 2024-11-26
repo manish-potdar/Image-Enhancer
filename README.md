@@ -36,7 +36,7 @@ This project showcases the ability of deep learning to enhance images, with acti
 
 
 
-# Inference:
+# Conclusion:
 Using softplus changes the way pixel values are processed because it amplifies them in a non-linear way. This can distort how the Red, Green, and Blue (RGB) channels combine, making the colors look different.
 
 Think of it like turning up certain colors too much while dimming others, so the final image's color balance is off. To fix this, it's better to use relu, which is simpler and keeps the colors more natural.
