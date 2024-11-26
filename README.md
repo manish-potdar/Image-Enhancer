@@ -6,14 +6,14 @@ Deep Network Layers: The model consists of convolutional, up-sampling, and pooli
 
 # Three Activation Functions Tested:
 ReLU: Efficient and fast but loses negative signals, which can affect balance. 
-
 Softplus: Smooth but tends to distort outputs, such as image colors.
-
 Tanh: Balanced and consistent, providing the most reliable results in this project.
 
-Training & Validation Graph: Included for visualizing the range of training and validation loss over epochs.
+# Training & Validation Graph: 
+Included for visualizing the range of training and validation loss over epochs.
 
-Model Architecture
+Model Architecture:
+
 ![WhatsApp Image 2024-11-26 at 11 42 13 PM](https://github.com/user-attachments/assets/6d5751d0-e061-44a3-a875-6bd66912d08e)
 
 
